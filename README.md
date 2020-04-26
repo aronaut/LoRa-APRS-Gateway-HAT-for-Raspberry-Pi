@@ -11,9 +11,10 @@ What you find here
 - Manuals
 - Pictures of the LoRa-APRS-Board
 
-Info
-----
-You find information about the LoRa-APRS Gateway at  
+Info & Software
+---------------
+You find information and Software for the LoRa-APRS Gateway at  
 https://www.aronaut.at/2019/11/lora-aprs-gateway-fur-raspberry-pi/  
 https://www.lora-aprs.at/  
-http://www.iot4pi.com/de/hardware/lora-gateway/
+http://www.iot4pi.com/de/hardware/lora-gateway/  
+https://github.com/tomelec/RPi-LoRa-KISS-TNC
