@@ -1,7 +1,8 @@
 What is it?
 -----------
 With this LoRa APRS board you can build a LoRa APRS single channel Gateway.  
-It works with a Raspberry Pi (Zero, 2 Model B, 3 Model B an B+).  
+The Board is based on the development of https://www.lora-aprs.at/ and http://www.iot4pi.com/de/hardware/lora-gateway/
+It works with a Raspberry Pi (2 Model B, 3 Model B an B+, Zero WH).  
 Power is provided by Raspberry Pi.
 
 What you find here
